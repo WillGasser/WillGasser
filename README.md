@@ -1,7 +1,18 @@
 # Hi, I'm Will Gasser
 
-Welcome to my GitHub profile. I'm a software engineering student at Auburn University.
+I'm a software engineering student at Auburn University with a passion for pushing the boundaries of artificial intelligence. As Vice President of Auburn's ACM chapter, I keep myself involved across various software clubs with my vaorite being competitive programming team!
 
+ICPC February 2024 || 2nd 🥈
+
+🔭 Current Focus
+Building AI-powered tools that combine mathematical rigor with practical engineering 
+
+🧮 Mathematician 
+I have always been proficient in advanced mathematics (math team, math olympia, valedictorian) which has allowed me to solve complex computational problems
+
+🤖 AI Visionary
+I believe A.I. is the future of our species. My dream is to help in the development of A.G.I. and A.S.I.
+ 
 ---
 
 ## Connect with me!
