@@ -4,6 +4,11 @@ Welcome to my GitHub profile. I'm a software engineering student at Auburn Unive
 
 ---
 
+## Connect with me!
+
+- **LinkedIn**: [linkedin.com/in/williamgasser](https://linkedin.com/in/williamgasser)
+- **Website**: [willgasser.com](https://willgasser.com)
+
 # My Stack
 ## Core Languages & Systems
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![x86_Assembly](https://img.shields.io/badge/x86_Assembly-8E0E87?style=for-the-badge&logo=assemblyscript&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-FFA500?style=for-the-badge&logo=vhdl&logoColor=white)
@@ -21,6 +26,4 @@ Welcome to my GitHub profile. I'm a software engineering student at Auburn Unive
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP/IP-1F6AAC?style=for-the-badge&logo=internet-explorer&logoColor=white)
 ---
 
-## Let’s Connect
-- **LinkedIn**: [linkedin.com/in/williamgasser](https://linkedin.com/in/williamgasser)
 
