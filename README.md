@@ -8,10 +8,12 @@ I believe A.I. is the future of our species. My dream is to assist the developme
  
 ---
 
-## Connect with me!
+# Connect with me!
 
 - **LinkedIn**: [linkedin.com/in/williamgasser](https://linkedin.com/in/williamgasser)
 - **Website**: [willgasser.com](https://willgasser.com)
+
+---
 
 # My Stack
 ## Core Languages & Systems
