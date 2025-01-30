@@ -1,6 +1,6 @@
 # Hey, I'm Will Gasser
 
-I'm a software engineering student at Auburn University with a passion for pushing the boundaries of artificial intelligence. As Vice President of Auburn's ACM chapter, I keep myself involved across various software clubs with my favorite being competitive programming team!
+I'm an A.I. and Machine Learning Researcher at Auburn University with a passion for pushing the boundaries of artificial intelligence. As Vice President of Auburn's ACM chapter, I keep myself involved across various software clubs with my favorite being competitive programming team!
 
 I believe A.I. is the future of our species. My dream is to assist the development of A.G.I. and A.S.I.
 
