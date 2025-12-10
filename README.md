@@ -1,6 +1,6 @@
 # Hey, I'm Will Gasser
 
-I'm a founding Engineer at Harmony ([tryharmony.ai](https://www.tryharmony.ai/)) and an auburn alum with a passion for pushing the boundaries of artificial intelligence. 
+I'm a founding Engineer at Harmony ([tryharmony.ai](https://www.tryharmony.ai/)) with a passion for pushing the boundaries of artificial intelligence. 
 
 I am also an Auburn Alum where I was Vice President of Auburn's ACM chapter, lifetime member of Tau Beta Pi Engineering Honor Society (ΤΒΠ), competitive programmer, and lifelong learner!
 
