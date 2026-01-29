@@ -2,7 +2,7 @@
 
 I'm a founding Engineer at Harmony ([tryharmony.ai](https://www.tryharmony.ai/)) with a passion for pushing the boundaries of artificial intelligence. 
 
-Auburn Alum | Tau Beta Pi Engineering(ΤΒΠ) | competitive programmer | lifelong learner
+Auburn Alumnus | Tau Beta Pi Engineering(ΤΒΠ) | competitive programmer | lifelong learner
 
 A.I. is the future of our species and its advancement can improve the human condition and help us understand our reality
 
