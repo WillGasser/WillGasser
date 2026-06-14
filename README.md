@@ -15,4 +15,5 @@ A.I. is the future of our species and its advancement can improve the human cond
 
 - **LinkedIn**: [linkedin.com/in/williamgasser](https://linkedin.com/in/williamgasser)
 - **Website**: [willgasser.com](https://willgasser.com)
+- **X** [@wbgasser](https://x.com/wbgasser)
 
